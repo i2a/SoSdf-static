@@ -38,6 +38,24 @@
             "food": "Burger",
             "lat": 46.7951217,
             "lng": 7.1568235
+        },
+        {
+            "name": "La mensa",
+            "food": "Plat du jour, pâtes, grillades",
+            "lat": 46.793797,
+            "lng": 7.157866
+        },
+        {
+            "name": "Kapadokya",
+            "food": "Kebab, durüm avec tout",
+            "lat": 46.794960,
+            "lng": 7.156693
+        },
+        {
+            "name": "Pastamia",
+            "food": "des pâtes",
+            "lat": 46.795274,
+            "lng": 7.156355
         }
     ]
 }
