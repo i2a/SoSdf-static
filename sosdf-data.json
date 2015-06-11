@@ -2,42 +2,42 @@
     "infos": {
         "version": "0.1"
     },
-    "places": {
-        "place": {
+    "places": [
+        {
             "name": "Le cyclo",
             "food": "Burger",
             "lat": 46.794657,
             "lng": 7.1572713
         },
-        "place": {
+        {
             "name": "L'imprévu",
             "food": "Pizza, demi poulet",
             "lat": 46.7943609,
             "lng": 7.1573518
         },
-        "place": {
+        {
             "name": "L'étoile d'or",
             "food": "Chinois, riz Colombo",
             "lat": 46.7965967,
             "lng": 7.1552784
         },
-        "place": {
+        {
             "name": "Denner",
             "food": "Pic nic domino",
             "lat": 46.7962794,
             "lng": 7.155182
         },
-        "place": {
+        {
             "name": "Migros",
             "food": "Pic nic domino",
             "lat": 46.7979302,
             "lng": 7.1530523
         },
-        "place": {
+        {
             "name": "L'arrache",
             "food": "Burger",
             "lat": 46.7951217,
             "lng": 7.1568235
         }
-    }
+    ]
 }
