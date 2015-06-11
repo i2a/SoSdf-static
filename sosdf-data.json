@@ -1,0 +1,12 @@
+{
+    "infos": {
+        "version": "0.1"
+    },
+    "places": {
+        "place": {
+            "name": "Imprévu",
+            "lat": 10,
+            "lng": 10
+        }
+    }
+}
